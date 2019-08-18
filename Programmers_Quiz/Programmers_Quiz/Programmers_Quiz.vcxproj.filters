@@ -21,13 +21,16 @@
     <ClCompile Include="Quiz\Sort\Find_Kth_Number.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Quiz\Sort\Array_Of_DivisibleNumber.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="stdafx.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Quiz\Math\AddDigits.cpp">
+    <ClCompile Include="Quiz\PraticeQuiz\AddDigits.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz\PraticeQuiz\Array_Of_DivisibleNumber.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz\PraticeQuiz\CaesarCipher.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
@@ -35,13 +38,16 @@
     <ClInclude Include="Quiz\Sort\Find_Kth_Number.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="Quiz\Sort\Array_Of_DivisibleNumber.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
     <ClInclude Include="stdafx.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="Quiz\Math\AddDigits.h">
+    <ClInclude Include="Quiz\PraticeQuiz\AddDigits.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Quiz\PraticeQuiz\Array_Of_DivisibleNumber.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Quiz\PraticeQuiz\CaesarCipher.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>

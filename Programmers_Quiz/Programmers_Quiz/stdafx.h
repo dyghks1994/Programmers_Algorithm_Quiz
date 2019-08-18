@@ -11,8 +11,3 @@
 
 //Math
 #include <math.h>
-
-// [Programmers Quiz Class]
-//sort
-//#include "./Quiz/Sort/Find_Kth_Number.h"
-//#include "./Quiz/Sort/Array_Of_DivisibleNumber.h"
