@@ -36,6 +36,9 @@
     <ClCompile Include="Quiz\PraticeQuiz\SumOfPrimeNumber.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Quiz\PraticeQuiz\SumOfDivisor.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Quiz\Sort\Find_Kth_Number.h">
@@ -54,6 +57,9 @@
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="Quiz\PraticeQuiz\SumOfPrimeNumber.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Quiz\PraticeQuiz\SumOfDivisor.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
