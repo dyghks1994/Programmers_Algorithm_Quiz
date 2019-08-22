@@ -7,6 +7,7 @@
 #include "Quiz/PraticeQuiz/AddDigits.h"					// 각 자릿수 더하기
 #include "Quiz/PraticeQuiz/Array_Of_DivisibleNumber.h"	// array의 각 엘리먼트중 divisor로 나누어 떨어지는 수들을 정렬
 #include "Quiz/PraticeQuiz/CaesarCipher.h"				// 시저암호
+#include "Quiz/PraticeQuiz/CollatzConjecture.h"				// 콜라츠 추측
 #include "Quiz/PraticeQuiz/ConvertStringToInt.h"		// 문자열 s를 정수로 바꾸기
 #include "Quiz/PraticeQuiz/SumOfDivisor.h"				// 주어진 n의 약수들의 합을 구하는 문제
 #include "Quiz/PraticeQuiz/SumOfPrimeNumber.h"			// 2부터 N까지의 모든 소수 더하기
@@ -20,6 +21,7 @@ int main()
 	//CaesarCipher caesar_cipher;
 	//SumOfPrimeNumber sum_of_primeNumber;
 	//SumOfDivisor sum_of_divisor;
-	ConvertStringToInt convert_string_to_int;
+	//ConvertStringToInt convert_string_to_int;
+	CollatzConjecture colatz_conject;
 
 }
