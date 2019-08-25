@@ -1,14 +1,16 @@
 #include "stdafx.h"
 
 //Sort 정렬문제
-#include "Quiz/Sort/Find_Kth_Number.h"	// 정렬 알고리즘, K번째 수 구하기
+#include "Quiz/Sort/Find_Kth_Number.h"					// 정렬 알고리즘, K번째 수 구하기
 
 //PriticeQuiz 연습문제(기타)
 #include "Quiz/PraticeQuiz/AddDigits.h"					// 각 자릿수 더하기
+#include "Quiz/PraticeQuiz/AddOfMatrix.h"				// 행렬의 덧셈
 #include "Quiz/PraticeQuiz/Array_Of_DivisibleNumber.h"	// array의 각 엘리먼트중 divisor로 나누어 떨어지는 수들을 정렬
 #include "Quiz/PraticeQuiz/CaesarCipher.h"				// 시저암호
-#include "Quiz/PraticeQuiz/CollatzConjecture.h"				// 콜라츠 추측
+#include "Quiz/PraticeQuiz/CollatzConjecture.h"			// 콜라츠 추측
 #include "Quiz/PraticeQuiz/ConvertStringToInt.h"		// 문자열 s를 정수로 바꾸기
+#include "Quiz/PraticeQuiz/StringSort_DescendingOrder.h"// 문자열 내림차순으로 정렬
 #include "Quiz/PraticeQuiz/SumOfDivisor.h"				// 주어진 n의 약수들의 합을 구하는 문제
 #include "Quiz/PraticeQuiz/SumOfPrimeNumber.h"			// 2부터 N까지의 모든 소수 더하기
 
@@ -22,6 +24,9 @@ int main()
 	//SumOfPrimeNumber sum_of_primeNumber;
 	//SumOfDivisor sum_of_divisor;
 	//ConvertStringToInt convert_string_to_int;
-	CollatzConjecture colatz_conject;
+	//CollatzConjecture colatz_conject;
+	//AddOfMatrix add_of_matrix;
+
+	StringSort_DescendingOrder string_sort_decending_order;
 
 }

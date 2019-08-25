@@ -37,7 +37,7 @@ int ConvertStringToInt::solution(std::string s)
 
 	for (int i = s.size() -1; i >= 0; i--)	// 마지막(오른쪽) 부터 처음(왼쪽)으로 변환한다
 	{
-		if (s[i] == '-' || s[i] == '+')		// 검사하는 묹자가 '-' 이거나 '+'이면 리턴
+		if (s[i] == '-' || s[i] == '+')		// 검사하는 문자가 '-' 이거나 '+'이면 리턴
 		{
 			answer = s[i] == '-' ? answer * (-1) : answer;  // 부호가 '-'일 경우 -1을 곱해서 음수로 변환, '+'이면 그냥 리턴
 			break;
@@ -48,3 +48,7 @@ int ConvertStringToInt::solution(std::string s)
 	}
 	return answer;
 }
+
+/*
+	return atoi(s); 도 가능
+*/
