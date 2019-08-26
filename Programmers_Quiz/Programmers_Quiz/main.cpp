@@ -7,9 +7,11 @@
 #include "Quiz/PraticeQuiz/AddDigits.h"					// 각 자릿수 더하기
 #include "Quiz/PraticeQuiz/AddOfMatrix.h"				// 행렬의 덧셈
 #include "Quiz/PraticeQuiz/Array_Of_DivisibleNumber.h"	// array의 각 엘리먼트중 divisor로 나누어 떨어지는 수들을 정렬
+#include "Quiz/PraticeQuiz/ArrayOfUpsideDownNum.h"		// 입력된 n을 뒤집어 각 ㅈ자리 숫자를 원소로 가지는 배열 만들기
 #include "Quiz/PraticeQuiz/CaesarCipher.h"				// 시저암호
 #include "Quiz/PraticeQuiz/CollatzConjecture.h"			// 콜라츠 추측
 #include "Quiz/PraticeQuiz/ConvertStringToInt.h"		// 문자열 s를 정수로 바꾸기
+#include "Quiz/PraticeQuiz/ExtractNotSameNum.h"			// 배열에서 연속으로 나오는 숫자는 하나만 남기고 제거
 #include "Quiz/PraticeQuiz/StringSort_DescendingOrder.h"// 문자열 내림차순으로 정렬
 #include "Quiz/PraticeQuiz/SumOfDivisor.h"				// 주어진 n의 약수들의 합을 구하는 문제
 #include "Quiz/PraticeQuiz/SumOfPrimeNumber.h"			// 2부터 N까지의 모든 소수 더하기
@@ -26,7 +28,8 @@ int main()
 	//ConvertStringToInt convert_string_to_int;
 	//CollatzConjecture colatz_conject;
 	//AddOfMatrix add_of_matrix;
-
-	StringSort_DescendingOrder string_sort_decending_order;
+	//StringSort_DescendingOrder string_sort_decending_order;
+	//ArrayOfUpsideDownNum array_of_upsidedown_num;
+	ExtractNotSameNum extract_not_sameNum;
 
 }

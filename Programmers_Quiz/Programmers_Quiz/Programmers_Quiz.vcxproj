@@ -127,12 +127,14 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Quiz\PraticeQuiz\AddDigits.cpp" />
     <ClCompile Include="Quiz\PraticeQuiz\AddOfMatrix.cpp" />
+    <ClCompile Include="Quiz\PraticeQuiz\ArrayOfUpsideDownNum.cpp" />
     <ClCompile Include="Quiz\PraticeQuiz\Array_Of_DivisibleNumber.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Use</PrecompiledHeader>
     </ClCompile>
     <ClCompile Include="Quiz\PraticeQuiz\CaesarCipher.cpp" />
     <ClCompile Include="Quiz\PraticeQuiz\CollatzConjecture.cpp" />
     <ClCompile Include="Quiz\PraticeQuiz\ConvertStringToInt.cpp" />
+    <ClCompile Include="Quiz\PraticeQuiz\ExtractNotSameNum.cpp" />
     <ClCompile Include="Quiz\PraticeQuiz\StringSort_DescendingOrder.cpp" />
     <ClCompile Include="Quiz\PraticeQuiz\SumOfDivisor.cpp" />
     <ClCompile Include="Quiz\PraticeQuiz\SumOfPrimeNumber.cpp" />
@@ -146,10 +148,12 @@
   <ItemGroup>
     <ClInclude Include="Quiz\PraticeQuiz\AddDigits.h" />
     <ClInclude Include="Quiz\PraticeQuiz\AddOfMatrix.h" />
+    <ClInclude Include="Quiz\PraticeQuiz\ArrayOfUpsideDownNum.h" />
     <ClInclude Include="Quiz\PraticeQuiz\Array_Of_DivisibleNumber.h" />
     <ClInclude Include="Quiz\PraticeQuiz\CaesarCipher.h" />
     <ClInclude Include="Quiz\PraticeQuiz\CollatzConjecture.h" />
     <ClInclude Include="Quiz\PraticeQuiz\ConvertStringToInt.h" />
+    <ClInclude Include="Quiz\PraticeQuiz\ExtractNotSameNum.h" />
     <ClInclude Include="Quiz\PraticeQuiz\StringSort_DescendingOrder.h" />
     <ClInclude Include="Quiz\PraticeQuiz\SumOfDivisor.h" />
     <ClInclude Include="Quiz\PraticeQuiz\SumOfPrimeNumber.h" />

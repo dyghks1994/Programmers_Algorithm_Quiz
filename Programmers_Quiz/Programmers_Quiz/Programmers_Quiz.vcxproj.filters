@@ -51,6 +51,12 @@
     <ClCompile Include="Quiz\PraticeQuiz\StringSort_DescendingOrder.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Quiz\PraticeQuiz\ArrayOfUpsideDownNum.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz\PraticeQuiz\ExtractNotSameNum.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Quiz\Sort\Find_Kth_Number.h">
@@ -84,6 +90,12 @@
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="Quiz\PraticeQuiz\StringSort_DescendingOrder.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Quiz\PraticeQuiz\ArrayOfUpsideDownNum.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Quiz\PraticeQuiz\ExtractNotSameNum.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
