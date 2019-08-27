@@ -135,6 +135,7 @@
     <ClCompile Include="Quiz\PraticeQuiz\CollatzConjecture.cpp" />
     <ClCompile Include="Quiz\PraticeQuiz\ConvertStringToInt.cpp" />
     <ClCompile Include="Quiz\PraticeQuiz\ExtractNotSameNum.cpp" />
+    <ClCompile Include="Quiz\PraticeQuiz\GCDandLCM.cpp" />
     <ClCompile Include="Quiz\PraticeQuiz\StringSort_DescendingOrder.cpp" />
     <ClCompile Include="Quiz\PraticeQuiz\SumOfDivisor.cpp" />
     <ClCompile Include="Quiz\PraticeQuiz\SumOfPrimeNumber.cpp" />
@@ -154,6 +155,7 @@
     <ClInclude Include="Quiz\PraticeQuiz\CollatzConjecture.h" />
     <ClInclude Include="Quiz\PraticeQuiz\ConvertStringToInt.h" />
     <ClInclude Include="Quiz\PraticeQuiz\ExtractNotSameNum.h" />
+    <ClInclude Include="Quiz\PraticeQuiz\GCDandLCM.h" />
     <ClInclude Include="Quiz\PraticeQuiz\StringSort_DescendingOrder.h" />
     <ClInclude Include="Quiz\PraticeQuiz\SumOfDivisor.h" />
     <ClInclude Include="Quiz\PraticeQuiz\SumOfPrimeNumber.h" />

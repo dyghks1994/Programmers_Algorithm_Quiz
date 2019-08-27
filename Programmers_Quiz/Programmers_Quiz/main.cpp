@@ -12,6 +12,7 @@
 #include "Quiz/PraticeQuiz/CollatzConjecture.h"			// 콜라츠 추측
 #include "Quiz/PraticeQuiz/ConvertStringToInt.h"		// 문자열 s를 정수로 바꾸기
 #include "Quiz/PraticeQuiz/ExtractNotSameNum.h"			// 배열에서 연속으로 나오는 숫자는 하나만 남기고 제거
+#include "Quiz/PraticeQuiz/GCDandLCM.h"					// 두 수의 최대공약수(GCD)와 최소공배수 (LCM) 구하기
 #include "Quiz/PraticeQuiz/StringSort_DescendingOrder.h"// 문자열 내림차순으로 정렬
 #include "Quiz/PraticeQuiz/SumOfDivisor.h"				// 주어진 n의 약수들의 합을 구하는 문제
 #include "Quiz/PraticeQuiz/SumOfPrimeNumber.h"			// 2부터 N까지의 모든 소수 더하기
@@ -30,6 +31,7 @@ int main()
 	//AddOfMatrix add_of_matrix;
 	//StringSort_DescendingOrder string_sort_decending_order;
 	//ArrayOfUpsideDownNum array_of_upsidedown_num;
-	ExtractNotSameNum extract_not_sameNum;
+	//ExtractNotSameNum extract_not_sameNum;
+	GCDandLCM gcd_lcm;
 
 }
