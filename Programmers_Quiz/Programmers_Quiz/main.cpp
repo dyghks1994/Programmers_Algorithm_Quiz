@@ -1,9 +1,12 @@
 #include "stdafx.h"
 
-//Sort 정렬문제
+// Hash 문제
+#include "Quiz/Hash/Level01/UnfinishedAthlete.h"		// 완주하지 못한 선수
+
+// Sort 정렬문제
 #include "Quiz/Sort/Find_Kth_Number.h"					// 정렬 알고리즘, K번째 수 구하기
 
-//PriticeQuiz 연습문제(기타)
+// PriticeQuiz 연습문제(기타)
 #include "Quiz/PraticeQuiz/AddDigits.h"					// 각 자릿수 더하기
 #include "Quiz/PraticeQuiz/AddOfMatrix.h"				// 행렬의 덧셈
 #include "Quiz/PraticeQuiz/Array_Of_DivisibleNumber.h"	// array의 각 엘리먼트중 divisor로 나누어 떨어지는 수들을 정렬
@@ -32,6 +35,8 @@ int main()
 	//StringSort_DescendingOrder string_sort_decending_order;
 	//ArrayOfUpsideDownNum array_of_upsidedown_num;
 	//ExtractNotSameNum extract_not_sameNum;
-	GCDandLCM gcd_lcm;
+	//GCDandLCM gcd_lcm;
+
+	UnfinishedAthlete unfinishedAthelete;
 
 }
