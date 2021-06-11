@@ -125,6 +125,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Quiz\Hash\Level02\PrefixPhonebook.cpp" />
     <ClCompile Include="Quiz\Hash\Level01\UnfinishedAthlete.cpp" />
     <ClCompile Include="Quiz\PraticeQuiz\AddDigits.cpp" />
     <ClCompile Include="Quiz\PraticeQuiz\AddOfMatrix.cpp" />
@@ -148,6 +149,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Quiz\Hash\Level02\PrefixPhonebook.h" />
     <ClInclude Include="Quiz\Hash\Level01\UnfinishedAthlete.h" />
     <ClInclude Include="Quiz\PraticeQuiz\AddDigits.h" />
     <ClInclude Include="Quiz\PraticeQuiz\AddOfMatrix.h" />
