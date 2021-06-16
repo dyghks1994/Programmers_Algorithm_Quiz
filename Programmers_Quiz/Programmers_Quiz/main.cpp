@@ -2,6 +2,7 @@
 
 // Hash 문제
 #include "Quiz/Hash/Level01/UnfinishedAthlete.h"		// 완주하지 못한 선수
+#include "Quiz\Hash\Level02\PrefixPhonebook.h"			// 전화번호 목록(접두어)
 
 // Sort 정렬문제
 #include "Quiz/Sort/Find_Kth_Number.h"					// 정렬 알고리즘, K번째 수 구하기
@@ -36,7 +37,11 @@ int main()
 	//ArrayOfUpsideDownNum array_of_upsidedown_num;
 	//ExtractNotSameNum extract_not_sameNum;
 	//GCDandLCM gcd_lcm;
+	
+	/// Hash
+	//UnfinishedAthlete unfinishedAthelete;
+	PrefixPhonebook prefixPhonebook;
 
-	UnfinishedAthlete unfinishedAthelete;
+
 
 }
