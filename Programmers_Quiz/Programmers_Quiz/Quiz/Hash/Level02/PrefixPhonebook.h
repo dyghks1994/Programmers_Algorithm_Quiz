@@ -45,6 +45,7 @@ public:
 	
 	bool solution(vector<string> phone_book);
 	bool solution2(vector<string> phone_book);
+	bool solution3(vector<string> phone_book);
 
 private:
 
