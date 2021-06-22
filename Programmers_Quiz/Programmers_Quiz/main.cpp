@@ -4,6 +4,9 @@
 #include "Quiz/Hash/Level01/UnfinishedAthlete.h"		// 완주하지 못한 선수
 #include "Quiz\Hash\Level02\PrefixPhonebook.h"			// 전화번호 목록(접두어)
 
+// Greedy 문제
+#include "Quiz\Greedy\Level01\WorkoutClothes.h"			// 체육복
+
 // Sort 정렬문제
 #include "Quiz/Sort/Find_Kth_Number.h"					// 정렬 알고리즘, K번째 수 구하기
 
@@ -40,8 +43,10 @@ int main()
 	
 	/// Hash
 	//UnfinishedAthlete unfinishedAthelete;
-	PrefixPhonebook prefixPhonebook;
+	//PrefixPhonebook prefixPhonebook;
 
+	/// Greedy
+	WorkoutClothes workoutClothes;
 
 
 }

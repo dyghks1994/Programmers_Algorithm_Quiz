@@ -147,6 +147,7 @@
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
     </ClCompile>
+    <ClCompile Include="Quiz\Greedy\Level01\WorkoutClothes.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Quiz\Hash\Level02\PrefixPhonebook.h" />
@@ -165,6 +166,7 @@
     <ClInclude Include="Quiz\PraticeQuiz\SumOfPrimeNumber.h" />
     <ClInclude Include="Quiz\Sort\Find_Kth_Number.h" />
     <ClInclude Include="stdafx.h" />
+    <ClInclude Include="Quiz\Greedy\Level01\WorkoutClothes.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
