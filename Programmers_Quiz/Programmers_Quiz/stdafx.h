@@ -14,3 +14,6 @@
 
 //Math
 #include <math.h>
+
+// Algorithm
+#include <algorithm>

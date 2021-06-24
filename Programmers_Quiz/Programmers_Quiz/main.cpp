@@ -6,6 +6,7 @@
 
 // Greedy 문제
 #include "Quiz\Greedy\Level01\WorkoutClothes.h"			// 체육복
+#include "Quiz\Greedy\Level02\CreateALargeNumber.h"				// 조이스틱
 
 // Sort 정렬문제
 #include "Quiz/Sort/Find_Kth_Number.h"					// 정렬 알고리즘, K번째 수 구하기
@@ -46,7 +47,7 @@ int main()
 	//PrefixPhonebook prefixPhonebook;
 
 	/// Greedy
-	WorkoutClothes workoutClothes;
-
+	//WorkoutClothes workoutClothes;
+	CreateALargeNumber createALargeNumber;
 
 }
