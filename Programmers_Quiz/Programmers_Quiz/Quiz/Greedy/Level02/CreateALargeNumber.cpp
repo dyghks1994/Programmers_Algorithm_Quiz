@@ -39,7 +39,7 @@ CreateALargeNumber::CreateALargeNumber()
 	/// 결과 보기
 	std::cout << "원본 = " << number3					  << std::endl;
 	std::cout << "k    = " << k3						  << std::endl;
-	std::cout << "결과 = " << solution2(number3.c_str(), k3) << std::endl;
+	std::cout << "결과 = " << solution(number3.c_str(), k3) << std::endl;
 }
 
 CreateALargeNumber::~CreateALargeNumber()
@@ -87,6 +87,7 @@ std::string CreateALargeNumber::solution(std::string number, int k)
 	return answer;
 }
 
+/// 다른 사람의 풀이 예시
 std::string CreateALargeNumber::solution2(std::string number, int k)
 {
 	std::string answer = "";
