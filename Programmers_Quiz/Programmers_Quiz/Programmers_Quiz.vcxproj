@@ -124,6 +124,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Quiz\ExhaustiveSearch\Level01\MockExam.cpp" />
     <ClCompile Include="Quiz\Greedy\Level02\CreateALargeNumber.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Quiz\Hash\Level02\PrefixPhonebook.cpp" />
@@ -151,6 +152,7 @@
     <ClCompile Include="Quiz\Greedy\Level01\WorkoutClothes.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Quiz\ExhaustiveSearch\Level01\MockExam.h" />
     <ClInclude Include="Quiz\Greedy\Level02\CreateALargeNumber.h" />
     <ClInclude Include="Quiz\Hash\Level02\PrefixPhonebook.h" />
     <ClInclude Include="Quiz\Hash\Level01\UnfinishedAthlete.h" />
