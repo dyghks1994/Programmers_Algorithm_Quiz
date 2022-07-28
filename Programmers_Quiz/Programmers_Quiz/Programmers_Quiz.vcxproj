@@ -124,34 +124,69 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Quiz\ExhaustiveSearch\Level01\MockExam.cpp" />
-    <ClCompile Include="Quiz\Greedy\Level02\CreateALargeNumber.cpp" />
+    <ClCompile Include="Quiz\ExhaustiveSearch\Level01\MinimumRectangle.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Use</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="Quiz\ExhaustiveSearch\Level01\MockExam.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Use</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="Quiz\Greedy\Level02\CreateALargeNumber.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Use</PrecompiledHeader>
+    </ClCompile>
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Quiz\Hash\Level02\PrefixPhonebook.cpp" />
     <ClCompile Include="Quiz\Hash\Level01\UnfinishedAthlete.cpp" />
-    <ClCompile Include="Quiz\PraticeQuiz\AddDigits.cpp" />
-    <ClCompile Include="Quiz\PraticeQuiz\AddOfMatrix.cpp" />
-    <ClCompile Include="Quiz\PraticeQuiz\ArrayOfUpsideDownNum.cpp" />
+    <ClCompile Include="Quiz\PraticeQuiz\AddDigits.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Use</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="Quiz\PraticeQuiz\AddOfMatrix.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Use</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="Quiz\PraticeQuiz\ArrayOfUpsideDownNum.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Use</PrecompiledHeader>
+    </ClCompile>
     <ClCompile Include="Quiz\PraticeQuiz\Array_Of_DivisibleNumber.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Use</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Use</PrecompiledHeader>
     </ClCompile>
-    <ClCompile Include="Quiz\PraticeQuiz\CaesarCipher.cpp" />
-    <ClCompile Include="Quiz\PraticeQuiz\CollatzConjecture.cpp" />
-    <ClCompile Include="Quiz\PraticeQuiz\ConvertStringToInt.cpp" />
-    <ClCompile Include="Quiz\PraticeQuiz\ExtractNotSameNum.cpp" />
-    <ClCompile Include="Quiz\PraticeQuiz\GCDandLCM.cpp" />
-    <ClCompile Include="Quiz\PraticeQuiz\StringSort_DescendingOrder.cpp" />
-    <ClCompile Include="Quiz\PraticeQuiz\SumOfDivisor.cpp" />
-    <ClCompile Include="Quiz\PraticeQuiz\SumOfPrimeNumber.cpp" />
+    <ClCompile Include="Quiz\PraticeQuiz\CaesarCipher.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Use</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="Quiz\PraticeQuiz\CollatzConjecture.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Use</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="Quiz\PraticeQuiz\ConvertStringToInt.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Use</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="Quiz\PraticeQuiz\ExtractNotSameNum.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Use</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="Quiz\PraticeQuiz\GCDandLCM.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Use</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="Quiz\PraticeQuiz\StringSort_DescendingOrder.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Use</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="Quiz\PraticeQuiz\SumOfDivisor.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Use</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="Quiz\PraticeQuiz\SumOfPrimeNumber.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Use</PrecompiledHeader>
+    </ClCompile>
     <ClCompile Include="Quiz\Sort\Find_Kth_Number.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Use</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Use</PrecompiledHeader>
     </ClCompile>
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
     </ClCompile>
-    <ClCompile Include="Quiz\Greedy\Level01\WorkoutClothes.cpp" />
+    <ClCompile Include="Quiz\Greedy\Level01\WorkoutClothes.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Use</PrecompiledHeader>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Quiz\ExhaustiveSearch\Level01\MinimumRectangle.h" />
     <ClInclude Include="Quiz\ExhaustiveSearch\Level01\MockExam.h" />
     <ClInclude Include="Quiz\Greedy\Level02\CreateALargeNumber.h" />
     <ClInclude Include="Quiz\Hash\Level02\PrefixPhonebook.h" />

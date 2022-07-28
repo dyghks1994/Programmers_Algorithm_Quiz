@@ -75,6 +75,9 @@
     <ClCompile Include="Quiz\ExhaustiveSearch\Level01\MockExam.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Quiz\ExhaustiveSearch\Level01\MinimumRectangle.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Quiz\Sort\Find_Kth_Number.h">
@@ -132,6 +135,9 @@
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="Quiz\ExhaustiveSearch\Level01\MockExam.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Quiz\ExhaustiveSearch\Level01\MinimumRectangle.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>

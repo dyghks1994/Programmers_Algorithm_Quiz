@@ -9,7 +9,8 @@
 #include "Quiz\Greedy\Level02\CreateALargeNumber.h"		// 조이스틱
 
 // Exaustive Search 문제
-#include "Quiz\ExhaustiveSearch\Level01\MockExam.h"		// 모의고사
+#include "Quiz\ExhaustiveSearch\Level01\MockExam.h"				// 모의고사
+#include "Quiz\ExhaustiveSearch\Level01\MinimumRectangle.h"		// 최소 직사각형
 
 // Sort 정렬문제
 #include "Quiz/Sort/Find_Kth_Number.h"					// 정렬 알고리즘, K번째 수 구하기
@@ -54,6 +55,7 @@ int main()
 	//CreateALargeNumber createALargeNumber;
 
 	/// Exaustive Serach
-	MockExam mockExam;
+	//MockExam mockExam;
+	MinimumRectangle minimumRectangle;
 
 }
