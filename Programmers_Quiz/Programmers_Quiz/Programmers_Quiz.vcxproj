@@ -177,6 +177,9 @@
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Use</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Use</PrecompiledHeader>
     </ClCompile>
+    <ClCompile Include="Quiz\Kakao\Level01\SecretMap.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Use</PrecompiledHeader>
+    </ClCompile>
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
@@ -204,6 +207,7 @@
     <ClInclude Include="Quiz\PraticeQuiz\SumOfDivisor.h" />
     <ClInclude Include="Quiz\PraticeQuiz\SumOfPrimeNumber.h" />
     <ClInclude Include="Quiz\Sort\Find_Kth_Number.h" />
+    <ClInclude Include="Quiz\Kakao\Level01\SecretMap.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="Quiz\Greedy\Level01\WorkoutClothes.h" />
   </ItemGroup>

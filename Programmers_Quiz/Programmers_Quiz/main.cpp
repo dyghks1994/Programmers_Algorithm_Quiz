@@ -29,6 +29,9 @@
 #include "Quiz/PraticeQuiz/SumOfDivisor.h"				// 주어진 n의 약수들의 합을 구하는 문제
 #include "Quiz/PraticeQuiz/SumOfPrimeNumber.h"			// 2부터 N까지의 모든 소수 더하기
 
+// 카카오 문제
+#include "Quiz/Kakao/SecretMap.h"
+
 //Programmers 문제 코드를 실행 및 테스트하기 위한 메인
 int main()
 {
@@ -56,6 +59,9 @@ int main()
 
 	/// Exaustive Serach
 	//MockExam mockExam;
-	MinimumRectangle minimumRectangle;
+	//MinimumRectangle minimumRectangle;
 
+
+	/// Kakao
+	SecretMap secretMap;
 }
